@@ -1,2 +1,6 @@
-# Laboratorio-de-Computaci-n-Grafica-2026-2
-Repositorio del Alumno 317031814 Grupo 13 de laboratorio
+# Laboratorio-de-Computacion-Grafica-e-Interaccion-Humano-Computadora
+Repositorio del Alumno Del Toro Ortiz Juan Pablo Yasebeth
+Número de cuenta: 317031814 
+Grupo de laboratorio: 13 de laboratorio 
+Semestre: 2026-2
+Grupo de teoria: 7
